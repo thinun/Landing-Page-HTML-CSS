@@ -37,7 +37,7 @@
 
 <h2>Author</h2>
 
-<p>This landing page template was created by <a href="https://github.com/your-username">Thinun Tharushika</a>.</p>
+<p>This landing page template was created by <a href="https://www.linkedin.com/in/thinun-tharushika">Thinun Tharushika</a>.</p>
 
 </body>
 </html>
